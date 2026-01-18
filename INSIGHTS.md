@@ -1,19 +1,24 @@
 # Industry Talk Reflection: PPG's IT Strategy, Data Analytics & SAP Systems
 
-**Event:** PPG Industry Talk  
-**Date:** 5 December 2025 
-**Venue:** Hyflex Classroom, N28A, Faculty of Computing, Universiti Teknologi Malaysia
-**Speaker:**  1) Ai Ling Ooi, APAC IT Lead. 
-              2) Derrick Tan Horng Shi, Data Analytics Manager. 
-              3) Vijaykumar Dhandapani, Cloud Architecture Lead.
-              4) Patrick Thong, SAP Operations DTR Lead
-**Topic:** PPG's IT Strategy, Data Analytics, Infrastructure & SAP Systems  
+**Event:** PPG Industry Talk
 
+**Date:** 5 December 2025 
+
+**Venue:** Hyflex Classroom, N28A, Faculty of Computing, Universiti Teknologi Malaysia.
+
+**Topic:** PPG's IT Strategy, Data Analytics, Infrastructure & SAP Systems 
+
+**Speaker:**  
+1) Ai Ling Ooi, APAC IT Lead. 
+2) Derrick Tan Horng Shi, Data Analytics Manager. 
+3) Vijaykumar Dhandapani, Cloud Architecture Lead.
+4) Patrick Thong, SAP Operations DTR Lead
+              
 ---
 
 ## **Overview**
 
-I recently attended an insightful industry talk by **PPG**, a global leader in paints, coatings, and specialty materials. The session delved into their IT strategy, data analytics capabilities, infrastructure models, and SAP integration. The speaker also shared valuable career insights, highlighted innovation pathways, and introduced PPG's **MRTC Internship Program**.
+I recently attended an insightful industry talk by **PPG**, a global leader in paints, coatings, and specialty materials. The session dived into their IT strategy, data analytics capabilities, infrastructure models, and SAP integration. The speaker also shared valuable career insights, highlighted innovation pathways, and introduced PPG's **MRTC Internship Program**.
 
 PPG operates in **70+ countries** with over **140 years** of industry experience. Their vision is to become the world's leading coatings company through innovative and sustainable solutions.
 
@@ -74,7 +79,7 @@ Thank you to the speaker for sharing real-world IT experiences and emphasizing t
 
 The talk reinforced the importance of **technical proficiency** and **strategic thinking** in IT. Seeing how PPG integrates SAP, cloud, and data analytics into its global operations was inspiring. It made me realize:
 
-- **Technical skills alone are not enough**—understanding business processes is crucial.
+- **Technical skills alone are not enough.** To understand business processes is crucial.
 - **Cloud and security knowledge** will be essential in future IT roles.
 - **Internships and industry talks** are invaluable for career clarity.
 - **Collaboration and communication** are as important as coding in enterprise IT.

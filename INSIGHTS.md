@@ -20,14 +20,8 @@ PPG operates in **70+ countries** with over **140 years** of industry experience
 Thank you to the speaker for sharing real-world IT experiences and emphasizing the importance of continuous learning and adaptability in the tech industry.
 
 ---
-# Direct link to PDF
-[Download PDF](path/to/your-file.pdf)
-
-# Embed PDF viewer (GitHub will show preview)
+# PPG TALK POSTER
 [View TIS Poster PDF](TIS-POSTER.pdf)
-
-# Or use direct link syntax
-[![PDF Icon](https://img.shields.io/badge/View-PDF-blue)](/TIS-POSTER.pdf)
 ---
 
 ## **Key Takeaways from the Session**
